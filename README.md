@@ -1,5 +1,5 @@
 # Fashion-Product-Recommendation
-This project contains a Fashion Product Recommendation system using a CNN model in Python. 
+This project builds a Fashion Product Recommendation web application using a CNN model in Python.
 
 It leverages 44,000 fashion images to extract features using the pre-trained ResNet50 model. 
 
